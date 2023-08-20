@@ -4,6 +4,7 @@ const nextConfig = {
         domains: ['cdn.imagin.studio']
     },
     output: 'export',
+    basePath: '/car-hub',
 }
 
 module.exports = nextConfig
